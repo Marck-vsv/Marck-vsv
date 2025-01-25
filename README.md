@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marck-vsv/portfolio](https://github.com/Marck-vsv/portfolio)
 
-- 💬 I'm mastering **NextJS 14, ReactJS 19 and Tailwind**
+- 💬 I'm mastering **NextJS 15, ReactJS 19 and Tailwind**
 
 - ⚡ Fun fact **I'm probably sleeping rn**
 
