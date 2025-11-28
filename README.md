@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marck-vsv&label=Profile%20views&color=0e75b6&style=flat" alt="marck-vsv" /> </p>
 
-- 🔭 I’m currently working on my [discord like api](https://github.com/Marck-vsv/marckcord-api) and [its frontend](https://github.com/Marck-vsv/marckcord-frontend)
+- 🔭 I’m currently working on developing a full ERP system
 
-- 🌱 I’m currently learning **NestJS, Prisma.io, MongoDB and Jest**
+- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Marck-vsv/portfolio](https://github.com/Marck-vsv/portfolio)
-
-- 💬 I'm mastering **NextJS 15, ReactJS 19, Tailwind and NestJS**
+- 💬 I'm mastering **Testing**
 
 - ⚡ Fun fact **I'm probably sleeping rn**
 
